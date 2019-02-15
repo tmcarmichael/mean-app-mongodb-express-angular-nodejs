@@ -2,22 +2,15 @@
 
 > Project for Software Design COSC 6353
 
-> Features user auth, database, supervised price prediction model, dynamic UI.
+> Features: user auth, database, supervised price prediction ML model, dynamic UI.
+
+> Project start date: 2/15/19
 
 
 ## Table of Contents (Optional)
 
 
 ## Example (Optional)
-
-
-## Installation
-
-
-### Clone
-
-
-### Setup
 
 
 ## Features
