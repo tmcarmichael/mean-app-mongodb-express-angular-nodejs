@@ -1,25 +1,9 @@
 # Price Prediction Full Stack Web App
 
-> Project for Software Design COSC 6353
+MEAN stack used: https://www.mongodb.com/mean-stack
 
-> Features: user auth, database, supervised price prediction ML model, dynamic UI.
-
-> Project start date: 2/15/19
-
-
-## Table of Contents (Optional)
-
-
-## Example (Optional)
-
-
-## Features
-
-
-## Usage (Optional)
-
-
-## Team
-
-
-## FAQ
+### Features: 
+- user auth
+- database (mongodb)
+- supervised price prediction ML model (python3)
+- dynamic responsive UI (angular)
